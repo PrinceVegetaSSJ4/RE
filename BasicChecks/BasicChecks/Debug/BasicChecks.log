@@ -1,0 +1,6 @@
+﻿  BasicChecks.cpp
+c:\users\ieuser\documents\visual studio 2015\projects\basicchecks\basicchecks\basicchecks.cpp(41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\ieuser\documents\visual studio 2015\projects\basicchecks\basicchecks\basicchecks.cpp(76): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\IEUser\documents\visual studio 2015\Projects\BasicChecks\Debug\BasicChecks.lib and object C:\Users\IEUser\documents\visual studio 2015\Projects\BasicChecks\Debug\BasicChecks.exp
+  BasicChecks.vcxproj -> C:\Users\IEUser\documents\visual studio 2015\Projects\BasicChecks\Debug\BasicChecks.dll
+  BasicChecks.vcxproj -> C:\Users\IEUser\documents\visual studio 2015\Projects\BasicChecks\Debug\BasicChecks.pdb (Full PDB)
